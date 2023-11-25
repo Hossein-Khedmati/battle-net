@@ -1,7 +1,7 @@
-@import "/css/navbar/navbar-959.css";
-@import "/css/StickyMenubar/menu-959.css";
-@import "/css/slider/swiper-sm.css";
-@import "/css/products/product-sm.css"
+@import "./navbar/navbar-959.css";
+@import "./StickyMenubar/menu-959.css";
+@import "./slider/swiper-sm.css";
+@import "./products/product-sm.css"
 
 
 

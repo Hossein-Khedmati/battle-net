@@ -1,4 +1,4 @@
-@import "/css/navbar/navbar+959.css";
-@import "/css/StickyMenubar/menu+959.css";
-@import "/css/slider/swiper.css";
-@import "/css/products/products.css";
+@import "./navbar/navbar+959.css";
+@import "./StickyMenubar/menu+959.css";
+@import "./slider/swiper.css";
+@import "./products/products.css";
