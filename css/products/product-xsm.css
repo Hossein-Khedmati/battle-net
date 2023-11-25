@@ -10,7 +10,7 @@
   .groups .items {
     display: flex;
     flex-wrap: wrap;
-    gap: 8px;
+    gap: 4px;
   }
   .groups .items .card {
     display: flex;
