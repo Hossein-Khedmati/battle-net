@@ -1,9 +1,9 @@
-@import "./setting.css";
-@import "./fonts.css";
-@import "./xxl.css" screen and (min-width: 1400px);
-@import "./xl.css" screen and (min-width: 1200px) and (max-width: 1400px);
-@import "./lg.css" screen and (min-width: 959px) and (max-width: 1200px);
-@import "./md.css" screen and (min-width: 768px) and (max-width: 959px);
-@import "./sm.css" screen and (min-width: 576px) and (max-width: 768px);
-@import "./xsm.css" screen and (max-width: 576px);
-@import "./footer.css"
+@import "setting.css";
+@import "fonts.css";
+@import "xxl.css" screen and (min-width: 1400px);
+@import "xl.css" screen and (min-width: 1200px) and (max-width: 1400px);
+@import "lg.css" screen and (min-width: 959px) and (max-width: 1200px);
+@import "md.css" screen and (min-width: 768px) and (max-width: 959px);
+@import "sm.css" screen and (min-width: 576px) and (max-width: 768px);
+@import "xsm.css" screen and (max-width: 576px);
+@import "footer.css"
