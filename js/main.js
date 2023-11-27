@@ -156,7 +156,7 @@ More.addEventListener("click", function () {
 // end account submenu
 // Start API
 const product = async () => {
-  let data = await fetch("https://hossein-khedmati.github.io/json/db.json");
+  let data = await fetch("https://hossein-khedmati.github.io/battle.products/db.json");
   let res = await data.json();
   let sections = res.products.map(function (category) {
     let products = category.product;
